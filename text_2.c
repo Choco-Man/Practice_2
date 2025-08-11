@@ -1,4 +1,4 @@
-// **** Printf() as a Variable Name **** //
+// **** Printf() will return the Integer **** //
 
 #include <stdio.h>
 
